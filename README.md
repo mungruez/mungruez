@@ -32,8 +32,6 @@
 <p><a href="https://www.buymeacoffee.com/zaakirmungrue"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mungruez" /></a><a href="https://ko-fi.com/zaakirmungrue"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mungruez" /></a></p><br><br>
 
 
-
-#<p>&nspb</p>
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mungruez&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mungruez&theme=aura&hide_border=true)<br/>
