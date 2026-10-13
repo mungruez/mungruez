@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaakir Mungrue</h1>
-<h3 align="center">A passionate Software Engineer from Trinidad and Tobago</h3>
+<h3 align="center">A passionate Software Engineer and owner of DojoSoft a mobile venture including iDojo the best self defense application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mungruez&label=Profile%20views&color=0e75b6&style=flat" alt="mungruez" /> </p>
 
